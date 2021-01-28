@@ -11,3 +11,9 @@ git log:
     Exibe uma lista de todos os commits.
 
 ------------------------------------------------------------------------
+
+git branch -a: 
+    
+    Exibe uma lista de todas as branches.
+
+------------------------------------------------------------------------
